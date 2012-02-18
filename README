@@ -29,7 +29,11 @@ Farmer,Wolf,Goat,Cabbage (fwgc)
 8-puzzle
 
 Compilation:
+<<<<<<< HEAD
 	javac ProblemSolver.java
+=======
+  javac ProblemSolver.java
+>>>>>>> 056ddf3f79f94afe8e958ceaf693f27fd2d22389
 	
 A note on command-line examples:
 	Parameters in <> mean you pick one of the ones
